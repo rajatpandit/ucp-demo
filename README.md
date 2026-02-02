@@ -4,8 +4,10 @@ A "Generative UI" commerce prototype demonstrating the **Universal Commerce Prot
 
 ## 📺 Demo Walkthrough
 
+## 📺 Demo Walkthrough
+
 <div align="center">
-  <img src="./demo-assets/demo.webp" width="100%" alt="Demo Walkthrough" />
+  <img src="./demo-assets/walkthrough.webp" width="100%" alt="Demo Walkthrough" />
 </div>
 
 ## 🌟 Key Features
