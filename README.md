@@ -5,7 +5,7 @@ A "Generative UI" commerce prototype demonstrating the **Universal Commerce Prot
 ## 📺 Demo Walkthrough
 
 <div align="center">
-  <video src="file:///Users/rajatpandit/.gemini/jetski/brain/8aa139d5-24d4-4fcd-9f7b-95d1aacb8194/ucp_demo_full_1770047970000.webp" controls width="100%"></video>
+  <video src="./demo-assets/demo.webp" controls width="100%"></video>
 </div>
 
 ## 🌟 Key Features
@@ -13,12 +13,12 @@ A "Generative UI" commerce prototype demonstrating the **Universal Commerce Prot
 ### 1. Consumer Layer (Generative UI)
 The user interface is clean, premium, and dynamically generated based on user intent. It hides the complexity of the underlying protocol.
 
-![Consumer View](file:///Users/rajatpandit/.gemini/jetski/brain/8aa139d5-24d4-4fcd-9f7b-95d1aacb8194/ucp_consumer_view_1770047970000.png)
+![Consumer View](./demo-assets/consumer-view.png)
 
 ### 2. Protocol Layer (Inspector Mode)
 By clicking the `< >` icon on any product, you can "flip" the card to verify the authentic **UCP Manifest**. This proves that the data comes directly from the merchant's self-sovereign data store, not a centralized database.
 
-![Manifest View](file:///Users/rajatpandit/.gemini/jetski/brain/8aa139d5-24d4-4fcd-9f7b-95d1aacb8194/ucp_manifest_view_1770047970000.png)
+![Manifest View](./demo-assets/manifest-view.png)
 
 ### 3. Agent Neural Link (Observability)
 A real-time debug overlay shows the "Brain" of the Scout Agent. Watch as it:
@@ -27,7 +27,7 @@ A real-time debug overlay shows the "Brain" of the Scout Agent. Watch as it:
 *   **Fetches** and filters distributed manifests.
 *   **Orchestrates** the final UI presentation.
 
-![Agent Overlay](file:///Users/rajatpandit/.gemini/jetski/brain/8aa139d5-24d4-4fcd-9f7b-95d1aacb8194/ucp_agent_overlay_1770047970000.png)
+![Agent Overlay](./demo-assets/agent-overlay.png)
 
 ## 🚀 How It Works
 
