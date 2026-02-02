@@ -1,5 +1,3 @@
 {
-  "/api/merchants/[id]/manifest/route": "app/api/merchants/[id]/manifest/route.js",
-  "/api/ucp/registry/route": "app/api/ucp/registry/route.js",
   "/page": "app/page.js"
 }
