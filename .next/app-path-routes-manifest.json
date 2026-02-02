@@ -1,0 +1,7 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/merchants/[id]/manifest/route": "/api/merchants/[id]/manifest",
+  "/api/ucp/registry/route": "/api/ucp/registry",
+  "/page": "/"
+}

@@ -1,0 +1,3 @@
+{
+  "/api/merchants/[id]/manifest/route": "app/api/merchants/[id]/manifest/route.js"
+}
